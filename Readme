@@ -1,1 +1,16 @@
-Hlo
+---------------- Module 1 -------------------
+
+1( Create Conda)-----------conda create -p venv python==3.1 
+
+
+# To activate this environment, use
+#
+#     $ conda activate E:\Python\venv
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+
+2( What ever [package is needed just put name in Requirements.txt])---- pip install -r requirements.txt
+3(TO run ipynb files) ---------- pip install ipykernel
