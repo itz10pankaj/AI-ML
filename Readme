@@ -5,7 +5,7 @@
 
 # To activate this environment, use
 #
-#     $ conda activate E:\Python\venv
+#     $ conda activate venv/
 #
 # To deactivate an active environment, use
 #
@@ -14,3 +14,11 @@
 
 2( What ever [package is needed just put name in Requirements.txt])---- pip install -r requirements.txt
 3(TO run ipynb files) ---------- pip install ipykernel
+
+
+
+----------------------------------------------Module 2----------------------
+Method 1  for Create an EVN = conda create -p venv python==3.12
+Method 2(For Linnux) = pip i virtualenv
+                       virtualenv -p python3 virtual_env
+                       virtual_env/scripts/activate 
