@@ -22,3 +22,8 @@ Method 1  for Create an EVN = conda create -p venv python==3.12
 Method 2(For Linnux) = pip i virtualenv
                        virtualenv -p python3 virtual_env
                        virtual_env/scripts/activate 
+
+
+----------------------------------Module 3-------------------------------------
+1) Conditional Statements
+2) Loops
